@@ -27,7 +27,7 @@
 <a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=VB.NET&sort= > <img width ='32px' src ='https://commons.wikimedia.org/wiki/File:VB.NET_Logo.svg'> </a>
+<a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=VB.NET&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg'> </a>
 <a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=haskell&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/haskell.svg'> </a>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
