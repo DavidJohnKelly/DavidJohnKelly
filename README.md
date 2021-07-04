@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=DavidJohnKelly.DavidJohnKelly)
 
 </p>
-<div size='20px'> Hi! My name is David Kelly. Thank You for taking the time to view my GitHub Profile 
+<div size='20px'> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile 
 </div>
 
 <h2> About Me</h2>
