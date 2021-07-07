@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a Python Sudoku Solver
+- 🔭 I’m currently working on a Python Sudoku Solver using TensorFlow
 
 - 🌱 I’m currently learning Python, TensorFlow 
 
@@ -34,10 +34,6 @@
 
 ![Metrics](https://metrics.lecoq.io/DavidJohnKelly?template=terminal&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FLondon)
 
-
-<h2> Some humor to forget the inevitability of death <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
 
