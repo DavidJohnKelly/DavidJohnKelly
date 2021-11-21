@@ -28,9 +28,6 @@
 <a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=VB.NET&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg'> </a>
 <a href= https://github.com/DavidJohnKelly?tab=repositories&q=&type=&language=haskell&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/haskell.svg'> </a>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/DavidJohnKelly?template=terminal&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&activity=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FLondon)
 
 
 
