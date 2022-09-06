@@ -1,7 +1,4 @@
 
-<div align="center">
-<img width="100%" height = "25%" src="https://user-images.githubusercontent.com/79090791/124384294-68844180-dcc8-11eb-93bc-d9acd85307e5.png" alt="cover" />
-</div>
 
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
