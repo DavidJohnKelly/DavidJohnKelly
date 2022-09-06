@@ -6,7 +6,8 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile 
+<div size='20px'> 
+<h2> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile <h2>
 </div>
 
 <h2> About Me</h2>
