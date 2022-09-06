@@ -1,9 +1,7 @@
 
 
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-</p>
 <h2> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile </h2>
 
 <h2> About Me</h2>
