@@ -1,13 +1,8 @@
-
-
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-
-<h2> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile </h2>
-
-<h2> About Me</h2>
+<h2> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile!
+ About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on a Python Sudoku Solver using TensorFlow
 
