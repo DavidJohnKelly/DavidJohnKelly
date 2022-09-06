@@ -1,3 +1,4 @@
+
 <div align="center">
 <img width="100%" height = "25%" src="https://user-images.githubusercontent.com/79090791/124384294-68844180-dcc8-11eb-93bc-d9acd85307e5.png" alt="cover" />
 </div>
@@ -6,8 +7,7 @@
 <p align='center'>
 
 </p>
-<div> 
-<h2> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile <h2>
+<div size='20px'> Hi! My name is David Kelly. Thank you for taking the time to view my GitHub Profile 
 </div>
 
 <h2> About Me</h2>
